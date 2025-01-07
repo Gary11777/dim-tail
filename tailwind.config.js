@@ -16,6 +16,7 @@ export default {
             },
             colors: {
                 'ghost-white': '#f8f8ff',
+                'blue-dimgent': '#0099ff',
             },
         },
     },
