@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.navbar a {
+    @apply hover:scale-110
+    hover:text-gray-200
+    transform transition
+    ease-in-out inline-block
+}
