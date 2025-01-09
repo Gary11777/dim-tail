@@ -19,13 +19,13 @@
                 </a>
             </div>
 
-            <div class="space-x-6 font-bold navbar">
-                <a href="/">Главная</a>
-                <a href="/products">Разработки</a>
-                <a href="/services">Услуги</a>
-                <a href="/projects">Проекты</a>
-                <a href="/contacts" >Контакты</a>
-                <a href="/about" >О нас</a>
+            <div class="space-x-6 font-bold">
+                <x-nav-link href="/">Главная</x-nav-link>
+                <x-nav-link href="/products">Разработки</x-nav-link>
+                <x-nav-link href="/services">Услуги</x-nav-link>
+                <x-nav-link href="/projects">Проекты</x-nav-link>
+                <x-nav-link href="/contacts">Контакты</x-nav-link>
+                <x-nav-link href="/about">О нас</x-nav-link>
             </div>
 
             <div class="space-x-3 font-thin text-sm">
